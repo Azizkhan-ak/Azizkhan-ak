@@ -10,8 +10,6 @@
 
 ### 🚀 About Me
 
-### 🚀 About Me
-
 - 💼 **Software Engineer at Macrosoft Pakistan (Remote)**
 - 🔭 Building **Quorum**, an advanced ad-tech platform with real-time data processing
 - 🌱 Continuously learning and exploring topics around **scalable architecture**, **cloud technologies**, and **modern full-stack development**
