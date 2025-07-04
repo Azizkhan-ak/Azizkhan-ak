@@ -10,12 +10,16 @@
 
 ### 🚀 About Me
 
+### 🚀 About Me
+
 - 💼 **Software Engineer at Macrosoft Pakistan (Remote)**
 - 🔭 Building **Quorum**, an advanced ad-tech platform with real-time data processing
-- 🌱 Learning: **Kubernetes, Apache Kafka, and Scalable Architecture**
+- 🌱 Continuously learning and exploring topics around **scalable architecture**, **cloud technologies**, and **modern full-stack development**
+- 💻 Regularly practicing **Data Structures and Algorithms** to strengthen problem-solving and coding efficiency
 - 💬 Ask me about:  
   `Java`, `Spring Boot`, `PostgreSQL`, `Snowflake`, `AWS`, `React`, `Kafka`
 - 📫 Reach me at: **azizullahkhanauk1@gmail.com**
+
 
 ---
 
