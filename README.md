@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aziz Ullah</h1>
-<h3 align="center">Full Stack Software Engineer | Java, Spring Boot, React, AWS</h3>
+<h3 align="center">Full Stack Software Engineer | Java, Spring, React, AWS, PostgreSQL, Snowflake, Neo4j</h3>
 
 ---
 
